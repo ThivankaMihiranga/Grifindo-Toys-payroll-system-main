@@ -1,0 +1,77 @@
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe.config
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Database.mdf
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Database_log.ldf
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.pdb
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Employee_from.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Form1.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.From_main.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Properties.Resources.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.exe
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.pdb
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Lesves_form.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.salary_from.resources
+C:\Users\user\Desktop\C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Month_salary_from.resources
+C:\Users\user\Desktop\Toys C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe.config
+C:\Users\user\Desktop\Toys C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.exe
+C:\Users\user\Desktop\Toys C# projects\Grifindo toys pyroll management\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.pdb
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.AssemblyReference.cache
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Database.mdf
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Database_log.ldf
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Employee from.resx
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Form1.resx
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Properties\Resources.resx
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Properties\Resources.Designer.cs
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe.config
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.pdb
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Employee_from.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Form1.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.From_main.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Lesves_form.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Month_salary_from.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Properties.Resources.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.salary_from.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.GenerateResource.cache
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.CoreCompileInputs.cache
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.exe
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.pdb
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Form2.resources
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\RdlCompile.cache
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\RdlCompile.compiled
+H:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.CopyComplete
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Database.mdf
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Database_log.ldf
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Employee from.resx
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Form1.resx
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Properties\Resources.resx
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Properties\Resources.Designer.cs
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe.config
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.exe
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Grifindo toys pyroll management.pdb
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.AssemblyReference.cache
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Employee_from.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Form1.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Form2.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.From_main.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Lesves_form.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Month_salary_from.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.Properties.Resources.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo_toys_pyroll_management.salary_from.resources
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.GenerateResource.cache
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.CoreCompileInputs.cache
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.csproj.CopyComplete
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.exe
+D:\C#\Grifindo-Toys-payroll-system-main\Grifindo toys pyroll management\obj\Debug\Grifindo toys pyroll management.pdb
